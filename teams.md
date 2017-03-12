@@ -135,3 +135,13 @@ STYLE GUIDE:
 * **Teammates**: Queenie Ho (@qho), Chris Rollins (@chris.rollins)
 * **Seeking Teammates**: Yes
 * [GitHub URL](https://github.com/qho-queenie/secret_app_react)
+
+*** 
+
+#Mydeal 
+### proximity based deal grabber 
+* **Teammates**: preyansh kotecha(@
+* ** **Seeking Teammates**:preyansh kotecha, Roy anguiano, jwalit patel, jawad bangash, aravind varada, dan park
+* [GitHub URL]https://github.com/Jawadban/my-deal
+
+***
